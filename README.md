@@ -1,4 +1,4 @@
-<h1 align="center">Holaaaa!, soy Frederick cid</h1>
+<h1 align="center">Holaaaa!, soy Frederick Cid</h1>
 <h3 align="center">A passionate frontend developer Persona con liderazgo y vanguardista, siempre creciendo en lo profesional y personal, siempre trato de ayudar a los demas de la mejor manera posible, creando nuevos caminos para solucionar problemas. Me desarrollo en el ambito TI, como programador y tecnico. Encontre mi enfoque en la programacion por mi apego a la tecnologia , siempre aprendo de forma autodidacta o buscando alguna capacitacion, como tambien avanzo en mi desarrollo personal y mis aptitudes.from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodkaaaa&label=Contador%20De%20Sapos&color=0e75b6&style=flat" alt="rodkaaaa" /> </p>
