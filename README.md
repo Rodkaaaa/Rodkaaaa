@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodkaaaa" alt="rodkaaaa" /></a> </p>
 
-- 🔭 Actualmente me desempeño como analista programador Andes Industrial Ltda.
+- 🔭 Actualmente me desempeño como analista programador en Andes Industrial Ltda.
   
 - 😁 Cuenta secundaria [Frederick Cid](https://github.com/FrederickCid)
 
