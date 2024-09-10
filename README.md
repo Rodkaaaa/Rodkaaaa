@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodkaaaa" alt="rodkaaaa" /></a> </p>
 
-- 🔭 Actualmente desarrollo mi proyecto integrador [Petpedia](https://github.com/Rodkaaaa/Petpedia2.0)
+- 🔭 Actualmente me desempeño como analista programador Andes Industrial Ltda.
+  
+- 😁 Cuenta secundaria [Frederick Cid](https://github.com/FrederickCid)
 
 - 📝 Regularmente me encuentro en: [www.linkedin.com/in/fcidg](www.linkedin.com/in/fcidg)
 
