@@ -6,9 +6,9 @@
   <a href="https://www.instagram.com/rodkitaaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodkaaaa#8638" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodkaaaa&label=Contador%20De%20Sapos&color=0e75b6&style=flat" alt="rodkaaaa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodkaaaa&label=Contador%20De%20Sapos&color=0e75b6&style=flat" alt="rodkaaaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodkaaaa" alt="rodkaaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodkaaaa" alt="rodkaaaa" /></a> </p>
 
 - 🔭 Actualmente me desempeño como analista programador en Andes Industrial Ltda.
   
