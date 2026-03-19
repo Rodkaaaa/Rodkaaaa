@@ -39,15 +39,13 @@
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <!-- Agrega tus demás tecnologías aquí de forma similar -->
 </p>
 
 ---
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rodkaaaa)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Rodkaaaa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
 
-<!-- Puedes agregar una sección de proyectos destacados, logros, o cualquier área profesional puntual. Además, utiliza lenguaje ameno y profesional para tu presentación, con links bien escritos y sin duplicados. -->
