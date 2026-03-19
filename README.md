@@ -12,9 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rodkaaaa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodkaaaa" alt="Trophy" /></a>
-</p>
 
 ---
 
@@ -41,9 +38,4 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
----
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Rodkaaaa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
