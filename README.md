@@ -21,7 +21,7 @@
 - 😊 También me encuentras en mi cuenta secundaria: [Frederick Cid](https://github.com/FrederickCid)
 - 📄 Perfil profesional: [LinkedIn](https://linkedin.com/in/fcidg)
 - 📫 Contacto directo: **frederickcid@gmail.com**
-- ❤️ Portafolio: [Link](portfolio-5q0dn8whe-rodkaaaas-projects.vercel.app)
+- ❤️ Portafolio: [Link]([portfolio-5q0dn8whe-rodkaaaas-projects.vercel.app](https://vercel.com/rodkaaaas-projects/portfolio/7S86EwM7m65jQefooJqPaVafZmyY))
 - ⚡ Curiosidad: ¡Me encanta cocinar!
 
 ---
